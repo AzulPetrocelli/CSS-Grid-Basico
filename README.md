@@ -6,3 +6,20 @@
 - Gaps
 - Grid-auto 
 # 
+
+**Clase 4:** *Propiedades de alineación*
+>Justify
+- Justify-items
+- Justify-self
+- Justify-content
+
+> Aling
+- Align-items
+- Align-self
+- Align-content
+
+>Place
+- Place-items
+- Place-self
+- Place-content
+#
