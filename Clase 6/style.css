@@ -1,0 +1,13 @@
+.container {
+  border: solid 4px #E1BEE7;
+  background-color: #FFF1FF;
+  display: grid;
+  place-content: center;
+  grid-template-columns:repeat(3, minmax(30px, 200px));
+  grid-template-rows: repeat(3, 100px);
+}
+
+.item {
+  border: 5px solid #00BCD4;
+  font-size: 2rem;
+}

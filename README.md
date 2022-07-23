@@ -34,3 +34,9 @@
 - grid-row-end
 
 >grid-area
+#
+
+**Clase 6** *Funciones especiales*
+- minmax
+- repeat
+#
