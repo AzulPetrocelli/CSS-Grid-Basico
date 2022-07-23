@@ -49,3 +49,9 @@
 - auto-fill
 - auto-fit
 #
+
+**Clase 8** *Proyecto*
+
+- Iniciamos con un proyecto para un restaurante en el que hay que ordenar las imagenes de los platillos en filas 
+
+#
