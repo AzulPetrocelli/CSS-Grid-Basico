@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 5px solid #66e734;
+  background-color: #9ef37d;
+  display: grid;
+  grid-template-columns: 150px 150px 150px;
+  grid-template-rows: 75px 75px 75px;
+  place-content: center;
+  grid-template-areas: 
+  "header header header"
+  "side main main" 
+  "side main main" 
+  ;
+}
+
+.item {
+  font-size: 4rem;
+}
+
+.item-1 {
+  border: 5px solid #bf56f0;
+  background-color: #cf9ce7;
+  grid-area: header;
+}
+
+.item-2 {
+  border: 5px solid #452e50;
+  background-color: #8d56a7;
+  grid-area: side;
+}
+
+.item-3 {
+  border: 5px solid #57087c;
+  background-color: #714b80;
+  grid-area: main;
+}

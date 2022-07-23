@@ -23,3 +23,14 @@
 - Place-self
 - Place-content
 #
+
+**Clase 5:** *Propiedades de ubicación*
+>grid-column
+- grid-column-start
+- grid-column-end
+
+>grid-row
+- grid-row-start
+- grid-row-end
+
+>grid-area

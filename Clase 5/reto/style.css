@@ -1,0 +1,49 @@
+.container {
+  background-color: greenyellow;
+  border: solid 1px green;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 100px 100px 100px;
+  place-content: center;
+}
+
+.item {
+  font-size: 4rem;
+}
+
+.item-1 {
+  background-color: plum;
+  border: solid 4px purple;
+}
+
+.item-2 {
+  background-color: orange;
+  border: solid 4px orangered;
+  grid-column: 2/4;
+}
+
+.item-3 {
+  background-color: rgb(231, 136, 136);
+  border: solid 4px red;
+  grid-column: 1/3;
+}
+
+.item-4 {
+  background-color: rgb(99, 99, 190);
+  border: solid 4px blue;
+}
+
+.item-5 {
+  background-color: pink;
+  border: solid 4px palevioletred;
+}
+
+.item-6 {
+  background-color: rgb(228, 228, 135);
+  border: solid 4px yellow;
+}
+
+.item-7 {
+  background-color: rgb(128, 120, 120);
+  border: solid 4px rgb(80, 79, 79);
+}
