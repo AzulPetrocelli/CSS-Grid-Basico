@@ -53,5 +53,9 @@
 **Clase 8** *Proyecto*
 
 - Iniciamos con un proyecto para un restaurante en el que hay que ordenar las imagenes de los platillos en filas 
+#
 
+**Clase 9** *Hagamos nuestra primera sección*
+
+- seguimos con el proyecto arrancamos haciendo la primer seccion con html y css
 #
