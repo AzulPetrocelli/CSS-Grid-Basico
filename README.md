@@ -40,3 +40,12 @@
 - minmax
 - repeat
 #
+
+
+**Clase 7** *Keywords especiales*
+- fr
+- min-content
+- max-content
+- auto-fill
+- auto-fit
+#
