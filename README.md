@@ -59,3 +59,8 @@
 
 - seguimos con el proyecto arrancamos haciendo la primer seccion con html y css
 #
+
+**Clase 10** *Creando la grilla con área*
+
+- seguimos con el proyecto esta vez agregamos unos estilos a la info de la primera seccion y hicimos la segunda seccion con las cinco imagenes y un titulo
+#
