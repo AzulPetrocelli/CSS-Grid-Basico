@@ -64,3 +64,8 @@
 
 - seguimos con el proyecto esta vez agregamos unos estilos a la info de la primera seccion y hicimos la segunda seccion con las cinco imagenes y un titulo
 #
+
+**Clase 11** *Armando el listado*
+
+- seguimos con el proyecto vamos ya por la ultima seccion que es la del home menu
+#
