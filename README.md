@@ -69,3 +69,8 @@
 
 - seguimos con el proyecto vamos ya por la ultima seccion que es la del home menu
 #
+
+**Clase 12** *¿Cómo hacer nuestro proyecto responsivo?*
+
+- En esta clase ya con el proyecto casi terminado vamos a ver seccion por seccion cual es su breakpoint para hacerlo Responsive
+#
