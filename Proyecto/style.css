@@ -16,7 +16,6 @@ main {
 
 .hero {
   width: 100%;
-  margin: 0 2rem;
   display: grid;
   grid-template-columns: minmax(40rem, 2fr) 3fr;
   grid-auto-rows: 55rem;
@@ -72,7 +71,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, minmax(15rem ,1fr));
   grid-auto-rows: 1fr;
-  gap: 2.5rem;
+  gap: 0.5rem;
   justify-content: center;
 }
 
@@ -80,6 +79,12 @@ main {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+
+.dishes-item:hover {
+  padding: 0.5rem;
 }
 
 .dishes-item__big {
@@ -90,14 +95,19 @@ main {
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(5, minmax(10rem, 25rem));
-  gap: 2.5rem;
+  gap: 2rem;
   margin: 0 1rem;
 }
 
 .plates-grid-item {
-  background-color: pink;
+  background-color: #333;
   padding: 1.5rem;
-  border-top-left-radius: 4rem;
+  border-radius: 2rem;
+}
+
+.plates-grid-item:hover {
+  padding: 0.5rem;
+  box-shadow: 0 0 5rem #FB8C00;
 }
 
 @media screen and (max-width: 768px) {

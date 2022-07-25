@@ -50,27 +50,4 @@
 - auto-fit
 #
 
-**Clase 8** *Proyecto*
-
-- Iniciamos con un proyecto para un restaurante en el que hay que ordenar las imagenes de los platillos en filas 
-#
-
-**Clase 9** *Hagamos nuestra primera sección*
-
-- seguimos con el proyecto arrancamos haciendo la primer seccion con html y css
-#
-
-**Clase 10** *Creando la grilla con área*
-
-- seguimos con el proyecto esta vez agregamos unos estilos a la info de la primera seccion y hicimos la segunda seccion con las cinco imagenes y un titulo
-#
-
-**Clase 11** *Armando el listado*
-
-- seguimos con el proyecto vamos ya por la ultima seccion que es la del home menu
-#
-
-**Clase 12** *¿Cómo hacer nuestro proyecto responsivo?*
-
-- En esta clase ya con el proyecto casi terminado vamos a ver seccion por seccion cual es su breakpoint para hacerlo Responsive
-#
+**Proyecto** *This is my project, I made it with knowledge I got on the CSS Grid course and it's responsive also*
